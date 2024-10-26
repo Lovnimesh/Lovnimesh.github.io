@@ -46,10 +46,11 @@ a{
     grid-area: article;
     padding-top:5px;
     /* box-shadow: 2px 3px 2px; */
-    width:100vw;
+/*     width:100vw; */
+    text-align:center
 }
 article div img{
-    width:100vw;
+    width:1530vw;
 }
 .intro{
     grid-area:article;
