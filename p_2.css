@@ -60,7 +60,7 @@ h4{
 .main{
     grid-area: main;
     display:flex;
-    width:90vw;
+/*     width:90vw; */
     margin: auto ;
     /* text-align: center; */
     padding: 30px;
