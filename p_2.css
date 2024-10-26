@@ -42,7 +42,7 @@ a{
 }
 .article{
     grid-area: article;
-    padding:70px;
+    padding:30px;
     margin:50px;
     text-align: center;
     /* border: 1px solid black; */
