@@ -61,11 +61,12 @@ article div img{
  div p:nth-child(1){
     font-size:80px ;
     font-weight: 600;
-    margin:100px 400px 100px 400px ;
+    margin:100px 400px 50px 400px ;
 }
  div p:nth-child(2){
     font-size:20px;
-    margin:100px 450px 100px 450px; 
+    margin:50px 450px 100px 450px; 
+    font-weight:300;
 
 }
 
